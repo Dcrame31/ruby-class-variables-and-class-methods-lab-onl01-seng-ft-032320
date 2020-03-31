@@ -28,5 +28,11 @@ class Song
     new_arr.uniq!
     new_arr
   end
+  
+  def self.genre_count
     
+  end
+
+  def self.artist_count
+  end
 end
